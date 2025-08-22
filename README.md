@@ -14,6 +14,7 @@ This project builds a predictive model to analyze and forecast battle outcomes b
 
 ![Synergy Score Example](images/synergy.png)
 
+#To evaluate best teams, I used K-means Clustering to catergorize what each type of pokemon fall under
 ![K-means Clustering for all known Pokemon](images/K-Means%20cluster.png)
 
 ## Example equation: Final damage calculation
