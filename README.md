@@ -11,10 +11,10 @@ This project builds a predictive model to analyze and forecast battle outcomes b
 ![Synergy Score Example](images/synergy.png)
 # To evaluate best teams, I used K-means Clustering to catergorize what each type of pokemon fall under
 ![K-means Clustering for all known Pokemon](images/K-Means%20cluster.png)
-Average in 5 stats except speed(purple)
-High attack and defense (Blue)
-Average across all stats (Yellow)
-High special defense and Special attack (Green))
+#### Average in 5 stats except speed(purple)
+#### High attack and defense (Blue)
+#### Average across all stats (Yellow)
+#### High special defense and Special attack (Green))
 
 ## Example equation: Final damage calculation
 ### final_damage = base_damage * stab_multiplier * effectiveness * crit_multiplier * item_boost * random_factor
