@@ -39,6 +39,8 @@ This project uses the following Python libraries:
 
 ### Installation
 
+
+## Below is an example of how I ran an inital process for finding the simulation
 ## Quick Simulation: Enter a Pokémon and Run
 
 Use one of the options below to enter a Pokémon’s stats and run a test simulation.
