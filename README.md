@@ -19,3 +19,25 @@ This project builds a predictive model to analyze and forecast battle outcomes b
 
 
 ### This data is strictly for experimentation purposes and I do not receive, nor look to receive compensation from this data owned by any and all entities surround the Pokemon franchise.
+
+## Dependencies
+
+This project uses the following Python libraries:
+
+- **pandas** – data cleaning, manipulation, and analysis  
+- **numpy** – numerical operations and arrays  
+- **matplotlib** – plotting and visualizations  
+- **seaborn** – enhanced data visualizations (optional)  
+- **scikit-learn** – clustering and predictive modeling  
+- **requests** – retrieving data from the PokéAPI  
+- **json** – parsing API responses  
+- **itertools** – generating team combinations  
+- **random** – randomizing team selection  
+
+### Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn requests
+pip install notebook ipywidgets
