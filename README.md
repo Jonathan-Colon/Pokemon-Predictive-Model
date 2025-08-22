@@ -9,7 +9,9 @@
 
 ## Currently, the best way I have found to create a predictive model for a team was create a synergy score that would be a quanitative expression encompassing things such as pokemon type and move type for coverage and bonus damage, as well as abilities and individualized stat distribution 
 
-![Alt text] ("C:\Users\jonco\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-07 184354.png")
+![Synergy Score Examples] ("C:\Users\jonco\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-07 184354.png")
+<img src=""C:\Users\jonco\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-07 184354.png" width="600">
+
 ## Example equation: Final damage calculation
 ### final_damage = base_damage * stab_multiplier * effectiveness * crit_multiplier * item_boost * random_factor
 
