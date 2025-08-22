@@ -52,7 +52,7 @@ Use one of the options below to enter a Pokémon’s stats and run a test simula
 
 ---
 
-### Option A — Console / Spyder (simple prompts)
+### Running initial dashboard — Console / Spyder (simple prompts)
 
 ```python
 # Paste into a Python file or cell and run
