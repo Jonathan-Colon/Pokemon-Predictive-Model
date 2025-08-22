@@ -3,6 +3,7 @@
 
 # Program used
 ## python via spider and google collab
+<br>
 
 ## How was the data cleaned or transformed? 
 ### I pulled all data from pokeapi and coded equations that dictate similar patterns and damage to that of the pokemon franchise
@@ -12,7 +13,7 @@
 Example equation:
 # Final damage calculation
 ## final_damage = base_damage * stab_multiplier * effectiveness * crit_multiplier * item_boost * random_factor
-
+<br>
 
 
 
