@@ -16,5 +16,5 @@
 
 
 
-What are the regulations to using the data?
-This data is strictly for experimentation purposes and I do not receive, nor look to receive compensation from this data owned by any and all entities surround the Pokemon franchise.
+
+### This data is strictly for experimentation purposes and I do not receive, nor look to receive compensation from this data owned by any and all entities surround the Pokemon franchise.
