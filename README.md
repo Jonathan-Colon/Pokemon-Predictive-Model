@@ -3,7 +3,7 @@
 
 # Program used
 ## python via spider and google collab
-<br>
+
 
 ## How was the data cleaned or transformed? 
 ### I pulled all data from pokeapi and coded equations that dictate similar patterns and damage to that of the pokemon franchise
