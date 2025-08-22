@@ -13,7 +13,6 @@
 This project builds a predictive model to analyze and forecast battle outcomes based on Pokémon stats, synergy scores, and team composition.
 
 ![Synergy Score Example](images/synergy.png)
-<img src="images/synergy_example.png" width="600">
 
 ## Example equation: Final damage calculation
 ### final_damage = base_damage * stab_multiplier * effectiveness * crit_multiplier * item_boost * random_factor
