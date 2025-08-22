@@ -14,7 +14,7 @@ This project builds a predictive model to analyze and forecast battle outcomes b
 
 ![Synergy Score Example](images/synergy.png)
 
-![K-means Clustering for all known Pokemon](images/K-Means cluster.png)
+![K-means Clustering for all known Pokemon](images/K-Means%20cluster.png)
 
 ## Example equation: Final damage calculation
 ### final_damage = base_damage * stab_multiplier * effectiveness * crit_multiplier * item_boost * random_factor
