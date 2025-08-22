@@ -78,5 +78,5 @@ To install the required dependencies, run:
 pip install pandas numpy matplotlib seaborn scikit-learn requests
 pip install notebook ipywidgets
 ```
-# Current Dashboard 
+# Current Dashboard Appearance
 ![Head-to-Head Visualization](images/Head_to_head.png)
