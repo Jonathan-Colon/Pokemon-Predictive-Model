@@ -12,32 +12,6 @@
 
 This project builds a predictive model to analyze and forecast battle outcomes based on Pokémon stats, synergy scores, and team composition.
 
----
-
-## ⚡ Synergy Score Example
-
-Here’s a sample synergy score output from the model:
-
-![Synergy Score Example](images/synergy_example.png)
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-```bash
-git clone https://github.com/Jonathan-Colon/Pokemon-Predictive-Model.git
-cd Pokemon-Predictive-Model
-
-## Example equation: Final damage calculation
-### final_damage = base_damage * stab_multiplier * effectiveness * crit_multiplier * item_boost * random_factor
-
-pip install -r requirements.txt
-
-
-
-
-
 
 
 ### This data is strictly for experimentation purposes and I do not receive, nor look to receive compensation from this data owned by any and all entities surround the Pokemon franchise.
