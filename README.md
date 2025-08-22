@@ -39,6 +39,37 @@ This project uses the following Python libraries:
 
 ### Installation
 
+## Quick Simulation: Enter a Pokémon and Run
+
+Use one of the options below to enter a Pokémon’s stats and run a test simulation.
+
+> **What you’ll need:**  
+> - Base stats (HP, Atk, Def, SpA, SpD, Spe)  
+> - Types, Ability, and up to 4 Moves  
+> - (Optional) Level, Nature, EVs/IVs if your model uses them
+
+---
+
+### Option A — Console / Spyder (simple prompts)
+
+```python
+# Paste into a Python file or cell and run
+
+def prompt_pokemon():
+    print("Enter Pokémon info ↓")
+    mon = {
+        "name": input("Name (e.g., Garchomp): ").strip(),
+        "type1": input("Type 1 (e.g., dragon): ").strip().lower(),
+        "type2": input("Type 2 (or blank): ").strip().lower() or None,
+        "ability": input("Ability (e.g., rough-skin): ").strip(),
+        "hp": int(input("HP: ")),
+        "atk": int(input("Attack: ")),
+        "def": int(input("Defense: ")),
+        "spa": int(input("Sp. Atk: ")),
+        "spd": int(input("Sp. Def: ")),
+        "spe": int(input("Speed: ")),
+        "moves": [m.strip
+
 To install the required dependencies, run:
 
 ```bash
